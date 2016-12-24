@@ -80,7 +80,7 @@
     "gravatar": "^1.1.0",
     "httpcheck": "^0.2.0",
     "in-publish": "^2.0.0",
-    "lodash": "^4.14.0",
+    "lodash": "^4.17.3",
     "md5": "^2.0.0",
     "method-override": "^2.3.0",
     "mongoose": "^4.5.8",
