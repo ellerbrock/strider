@@ -141,7 +141,7 @@
     "istanbul": "^0.4.4",
     "jquery": "^3.1.1",
     "less": "^2.2.0",
-    "minifyify": "^7.3.3",
+    "minifyify": "^7.3.5",
     "mkdirp": "^0.5.0",
     "mocha": "^3.0.0",
     "node-mocks-http": "^1.2.4",
