@@ -133,7 +133,7 @@
     "browserify": "^14.0.0",
     "browserify-shim": "^3.8.0",
     "chai": "^3.5.0",
-    "chai-as-promised": "^7.0.0",
+    "chai-as-promised": "^7.1.0",
     "docpress": "docpress/docpress",
     "eslint": "^3.0.1",
     "expect.js": "^0.3.1",
