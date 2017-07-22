@@ -105,7 +105,7 @@
     "strider-ecosystem-client": "^1.2.1",
     "strider-email-notifier": "^0.4.2",
     "strider-env": "^0.5.1",
-    "strider-extension-loader": "^0.4.5",
+    "strider-extension-loader": "^0.4.6",
     "strider-git": "^0.2.0",
     "strider-github": "^2.3.0",
     "strider-gitlab": "^1.2.3",
