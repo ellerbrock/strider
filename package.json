@@ -132,7 +132,7 @@
     "bower-installer": "^1.2.0",
     "browserify": "^14.0.0",
     "browserify-shim": "^3.8.0",
-    "chai": "^3.5.0",
+    "chai": "^4.1.1",
     "chai-as-promised": "^7.0.0",
     "docpress": "docpress/docpress",
     "eslint": "^3.0.1",
