@@ -90,7 +90,7 @@
     "passport-local": "^1.0.0",
     "path-to-regexp": "^2.0.0",
     "pug": "^2.0.0-beta4",
-    "rc": "^1.0.3",
+    "rc": "^1.2.6",
     "request": "^2.49.0",
     "semver": "^5.3.0",
     "serve-favicon": "^2.2.0",
